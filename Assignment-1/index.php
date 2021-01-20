@@ -180,7 +180,8 @@ else{
     $religion = $F;
 
 }
-
+$gpa =($bangla+$english+$math+$religion)/4;
+echo "Your GPA is".$gpa
 
 
 
